@@ -8,3 +8,7 @@
 
 ## Added hotfix for UseCase 10
 - Made the images pressable
+
+
+### Branching strategy
+- GitFlow | For a detailed view of gitflow see: https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow
